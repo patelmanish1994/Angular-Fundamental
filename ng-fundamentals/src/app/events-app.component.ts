@@ -5,8 +5,7 @@ import { Component } from '@angular/core';
   template: `
   <h1>Hello World</h1>
   <h3>Welcome to the world of Angular</h3>
-  <h3>Welcome to the world of Angular</h3>
-  <h3>Welcome to the world of Angular</h3>
+  <h1>Welcome to the world of Angular</h3>
 
 
   <img src="/assets/images/basic-shield.png"/>
